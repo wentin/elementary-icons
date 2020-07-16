@@ -154,7 +154,7 @@
        x1="-22.383766"
        y1="-3.8663635"
        x2="-22.383766"
-       y2="16.369385" />
+       y2="13.364262" />
     <linearGradient
        id="linearGradient1080">
       <stop
@@ -214,7 +214,7 @@
      id="path3501"
      d="m 21.940932,17.976195 a 8.2909995,5.5238047 0 1 0 -16.581999,0 8.2909995,5.5238047 0 0 0 16.581999,0 z" />
   <path
-     d="m 14,3.5000003 c -0.153845,0 -0.28292,0.064176 -0.375,0.1679688 -0.0063,0.00735 -0.01283,0.014514 -0.01953,0.021484 L 5.63672,11.158203 C 5.5506,11.249423 5.5,11.365061 5.5,11.5 c 0,0.134941 0.0506,0.250577 0.136719,0.341797 l 7.96875,7.46875 c 0.0067,0.007 0.01323,0.01418 0.01953,0.02148 C 13.717081,19.43582 13.846154,19.5 14,19.5 c 0.285849,0 0.5,-0.214151 0.5,-0.5 v -5 c -1.79e-4,-0.276217 0.223783,-0.500179 0.5,-0.5 h 1 c 3,0 5.444864,2.5 5.5,5.25 0,0.4155 0.3345,0.75 0.75,0.75 h 0.5 c 0.4155,0 0.75,-0.3345 0.75,-0.75 V 17 C 23.583913,13 20,9.5000003 16,9.5000003 h -1 c -0.276217,1.79e-4 -0.500179,-0.223783 -0.5,-0.5 v -5 c 0,-0.2858493 -0.214151,-0.5 -0.5,-0.5 z"
+     d="m 14,3.5000003 c -0.153845,0 -0.28292,0.064176 -0.375,0.1679688 -0.0063,0.00735 -0.01283,0.014514 -0.01953,0.021484 L 5.63672,11.158203 C 5.5506,11.249423 5.5,11.365061 5.5,11.5 c 0,0.134941 0.0506,0.250577 0.136719,0.341797 l 7.96875,7.46875 c 0.0067,0.007 0.01323,0.01418 0.01953,0.02148 C 13.717081,19.43582 13.846154,19.5 14,19.5 c 0.285849,0 0.5,-0.214151 0.5,-0.5 v -5 c -1.79e-4,-0.276217 0.223783,-0.500179 0.5,-0.5 h 1 c 3,0 5.935108,2.5 5.990244,5.25 0,0.4155 0.3345,0.75 0.75,0.75 C 23.236465,19.5 23.5,19.234887 23.5,18.75 V 17 C 23.583913,13 21,9.5000003 16,9.5000003 h -1 c -0.276217,1.79e-4 -0.500179,-0.223783 -0.5,-0.5 v -5 c 0,-0.2858493 -0.214151,-0.5 -0.5,-0.5 z"
      style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient1108);fill-opacity:1;stroke:#002e99;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000;stop-opacity:1"
      id="rect1082-6" />
   <path
@@ -222,11 +222,11 @@
      style="font-variation-settings:normal;opacity:0.5;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient983-3-2);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;stop-color:#000000"
      d="M 15.00036,12.501953 C 14.173122,12.502221 13.502581,13.172762 13.502313,14 v 3.796875 L 6.70536,11.5 13.502313,5.2035393 v 3.796875 c 2.68e-4,0.827238 0.670809,1.4977787 1.498047,1.4980467" />
   <path
-     d="m 15,12.503906 h 1 c 4,0 6.514537,3.496094 6.514537,6.767811"
+     d="m 15,12.503906 h 1 c 4,0 6.74313,3.224377 6.74313,6.496094"
      style="font-variation-settings:normal;opacity:0.5;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient1903-5);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;stop-color:#000000;stop-opacity:1"
      id="rect1082-96-8" />
   <path
      id="rect1082-96-4-7"
      style="font-variation-settings:normal;opacity:0.5;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient1903-0-3);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;stop-color:#000000;stop-opacity:1"
-     d="M 22.503906,19 V 16.97852 C 22.575086,13.585484 19.418755,10.496094 16,10.496094 h -1" />
+     d="M 22.503906,16.97852 C 22.503906,13.196913 20,10.496094 16,10.496094 h -1" />
 </svg>
